@@ -1,0 +1,9 @@
+image_path,label,label_id,leaf_area_cm2,severity_score
+leaf_001.jpg,Healthy,0,45.2,0.0
+leaf_002.jpg,Bacterial_Spot,1,38.1,0.65
+leaf_003.jpg,Early_Blight,2,42.0,0.80
+leaf_004.jpg,Late_Blight,3,50.5,0.92
+leaf_005.jpg,Healthy,0,41.8,0.0
+leaf_006.jpg,Bacterial_Spot,1,36.4,0.58
+leaf_007.jpg,Early_Blight,2,48.2,0.73
+leaf_008.jpg,Late_Blight,3,44.1,0.88
